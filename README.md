@@ -1,6 +1,6 @@
 ## About
 
-Note that Postgres 12+ is required to be installed first.
+Note that Postgres 12+ is required to be installed first. The seeding script works with Ruby, so you'll need Ruby on your system too.
 
 To create and seed the database, run `bundle` and then `bundle exec
 ./gen_demo_data.rb`. You may provide the following environment variables to
